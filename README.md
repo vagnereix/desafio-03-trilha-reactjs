@@ -57,6 +57,8 @@ $ yarn dev
   <li>Styled Components</li>
 </ul>
 
+---
+
 <p align="center">
 Feito com 💜&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
 </p>
