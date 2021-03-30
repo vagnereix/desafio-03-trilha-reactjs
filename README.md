@@ -50,15 +50,17 @@ $ yarn dev
 
 Pronto! Você pode visualizar o RocketShoes através do endereço http://localhost:3000
 
-<h2>:rocket: Tecnologias</h2>
-<ul>
-  <li>ReactJS</li>
-  <li>TypeScript</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Styled Components</li>
-  <li>JSON Server</li>
-</ul>
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HTML5]()
+- [CSS3]()
+- [Styled Components](https://styled-components.com/)
+- [JSON Server](https://github.com/typicode/json-server)
+- [Axios](https://github.com/axios/axios)
 
 ---
 
