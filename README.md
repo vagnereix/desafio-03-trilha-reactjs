@@ -1,12 +1,12 @@
 <h1 align="center">👟 RocketShoes</h1>
-<p align="center">Terceiro desafio do Ignite - Trilha ReactJs - Rockteseat. 🚀</p>
+<p align="center">Terceiro desafio do Ignite - Trilha ReactJS - Rockteseat. 🚀</p>
 
 <p align="center">
 <img src="https://github.com/tiagopierre/challenge03-react-ignite-rocketshoes/blob/master/assets/screenshot.PNG" alt="screenshot" width="1120px" />
 </p>
 
 <h2>Sobre o Desafio</h2>
-<p>Este desafio é para aplicar os conceitos de ReactJs ensinados em aula.</p>
+<p>Este desafio é para aplicar os conceitos de ReactJS ensinados em aula.</p>
 <p>Este é um aplicativo cujo objetivo principal é criar um hook para carrinho de compras.</p>
 
 <h2>Funcionando</h2>
@@ -35,7 +35,7 @@ Antes de começar 🏁, você precisa ter o [Git](https://git-scm.com) e o [Node
 $ git clone https://github.com/vagnereix/desafio-03-trilha-reactjs.git
 
 # Acesse
-$ cd RocketShoes-Web-Ignite
+$ cd desafio-03-trilha-reactjs
 
 # Instale as dependências
 $ yarn
