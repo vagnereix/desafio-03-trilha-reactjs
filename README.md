@@ -57,6 +57,7 @@ Pronto! Você pode visualizar o RocketShoes através do endereço http://localho
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Styled Components</li>
+  <li>JSON Server</li>
 </ul>
 
 ---
