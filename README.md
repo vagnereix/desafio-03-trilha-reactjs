@@ -26,7 +26,7 @@
   <li>Exibição de mensagens de erro.</li>
 </ul>
 
-<h2>Começando</h2>
+## :books: Guia de instalação e execução
 
 Antes de começar 🏁, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados.
 
@@ -47,6 +47,8 @@ $ yarn server
 $ yarn dev
 
 ```
+
+Pronto! Você pode visualizar o RocketShoes através do endereço http://localhost:3000
 
 <h2>Tecnologias</h2>
 <ul>
