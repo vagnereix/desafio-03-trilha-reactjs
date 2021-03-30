@@ -9,7 +9,7 @@
 <p>Este desafio é para aplicar os conceitos de ReactJS ensinados em aula.</p>
 <p>Este é um aplicativo cujo objetivo principal é criar um hook para carrinho de compras.</p>
 
-<h2>Funcionando</h2>
+<h2>Preview</h2>
 
 <p align="center">
 <img src="https://github.com/tiagopierre/challenge03-react-ignite-rocketshoes/blob/master/assets/screenshot.gif" alt="screenshot" width="1120px" />
