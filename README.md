@@ -5,7 +5,7 @@
 <img src="https://github.com/tiagopierre/challenge03-react-ignite-rocketshoes/blob/master/assets/screenshot.PNG" alt="screenshot" width="1120px" />
 </p>
 
-<h2>:rocket: Sobre</h2>
+<h2>💻 Sobre</h2>
 <p>Este desafio é para aplicar os conceitos de ReactJS ensinados em aula.</p>
 <p>Este é um aplicativo cujo objetivo principal é criar um hook para carrinho de compras.</p>
 
@@ -50,7 +50,7 @@ $ yarn dev
 
 Pronto! Você pode visualizar o RocketShoes através do endereço http://localhost:3000
 
-<h2>Tecnologias</h2>
+<h2>:rocket: Tecnologias</h2>
 <ul>
   <li>ReactJS</li>
   <li>TypeScript</li>
