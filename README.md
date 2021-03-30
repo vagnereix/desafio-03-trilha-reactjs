@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [HTML5](https://html.com/)
+- [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/html/html_css.asp)
 - [Styled Components](https://styled-components.com/)
 - [JSON Server](https://github.com/typicode/json-server)
