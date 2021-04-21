@@ -57,5 +57,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 <p align="center">
-Feito com 💜&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
+Feito com 💜&nbsp;e ☕&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
 </p>
